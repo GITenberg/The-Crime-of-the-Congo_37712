@@ -1,0 +1,34 @@
+_repo: The-Crime-of-the-Congo_37712
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37712-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Conan Doyle, Arthur, Sir
+    - Doyle, A. Conan
+    - Doyle, Sir Arthur Conan
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_issued: '2011-10-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37712'
+  lccn: 09029564
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Belgium -- Colonies -- Administration'
+- !lcc 'DT'
+- !lcsh 'Congo (Democratic Republic) -- Politics and government'
+- !lcsh 'Indigenous peoples -- Congo (Democratic Republic)'
+title: The Crime of the Congo
+url: http://www.gutenberg.org/ebooks/37712
